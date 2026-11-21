@@ -2,7 +2,7 @@
 
 ### 📊 Power BI Developer | MIS & Reporting Analyst | Data Analyst
 
-💼 **2.2 Years of Experience** | Power BI | SQL | Python | Advanced Excel
+💼 **2+ Years of Experience** | Power BI | SQL | Python | Advanced Excel
 
 Welcome to my GitHub profile!
 
